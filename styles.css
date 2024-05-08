@@ -55,9 +55,13 @@ body {
     padding-left: 20px;
 }
 
+.titleLink {
+    text-decoration: none;
+    color: black;
+}
+
 /* Fake image */
-.fakeimg {
-    background-color: #aaa;
+.image-content {
     width: 100%;
     padding: 20px;
 }
